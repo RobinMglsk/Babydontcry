@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Baby don\'t cry</string>
+    <string name="start_quiz">Touch to start!</string>
+
+    <!--Question 01-->
+    <string name="question001">Babies have more bones than adults.</string>
+    <string name="question001_option1">True</string>
+    <string name="question001_option2">False</string>
+
+    <!--Question 02-->
+    <string name="question002">At what age does a baby begin to crawl?</string>
+    <string name="question002_option1">3 to 5 months</string>
+    <string name="question002_option2">6 to 10 months</string>
+    <string name="question002_option3">11 to 12 months</string>
+
+    <!--Question 03-->
+    <string name="question003">How many diapers does the average newborn use in a day?</string>
+
+    <!--Question 04-->
+    <string name="question004">All babies are born with blue eyes.</string>
+    <string name="question004_option1">True</string>
+    <string name="question004_option2">False</string>
+
+    <!--Question 05-->
+    <string name="question005">Babies are born without?</string>
+    <string name="question005_option1">Fingernails</string>
+    <string name="question005_option2">Kneecaps</string>
+    <string name="question005_option3">Body hair</string>
+    <string name="question005_option4">Tattoos</string>
+
+</resources>
