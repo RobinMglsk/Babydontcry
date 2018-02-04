@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Niet huilen kleintje</string>
+    <string name="start_quiz">Raak me aan om de kwis te beginen</string>
+    <string name="submit">Antwoorden verzenden</string>
+
+    <!--Question 01-->
+    <string name="question001">Baby\'s hebben meer botten dan volwassen.</string>
+    <string name="question001_option1">Waar</string>
+    <string name="question001_option2">Niet waar</string>
+
+    <!--Question 02-->
+    <string name="question002">Op welke leeftijd begint een baby met kruipen?</string>
+    <string name="question002_option1">3 tot 5 maanden</string>
+    <string name="question002_option2">6 tot 10 maanden</string>
+    <string name="question002_option3">11 tot 12 maanden</string>
+
+    <!--Question 03-->
+    <string name="question003">Hoeveel luiers gebruikt een pasgeboren baby gemiddeld per dag?</string>
+
+    <!--Question 04-->
+    <string name="question004">Alle baby\'s worden geboren met blauwe ogen.</string>
+    <string name="question004_option1">Waar</string>
+    <string name="question004_option2">Niet waar</string>
+
+    <!--Question 05-->
+    <string name="question005">Baby\'s worden geboren zonder?</string>
+    <string name="question005_option1">Vingernagels</string>
+    <string name="question005_option2">Knieschijven</string>
+    <string name="question005_option3">Lichaams haar</string>
+    <string name="question005_option4">Tatoeages</string>
+    <string name="title_activity_the_score">Je score</string>
+    <string name="scoreText">Je behaalde</string>
+    <string name="bbsim_msg">Baby simulator</string>
+    <string name="error_pleaseFillInAllQuestion">Geleive alle vragen te beantwoorden</string>
+    <string name="msg_success">Joepie blije baby!</string>
+    <string name="msg_failed">Oei, de baby is boos!</string>
+
+</resources>

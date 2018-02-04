@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Baby don\'t cry</string>
     <string name="start_quiz">Touch to start!</string>
+    <string name="submit">Submit answers</string>
+    <string name="question">Question</string>
 
     <!--Question 01-->
     <string name="question001">Babies have more bones than adults.</string>
@@ -27,5 +29,18 @@
     <string name="question005_option2">Kneecaps</string>
     <string name="question005_option3">Body hair</string>
     <string name="question005_option4">Tattoos</string>
+    <string name="title_activity_the_score">theScore</string>
+
+
+    <!--Score and sim-->
+    <string name="scoreText">You scored </string>
+    <string name="bbsim_msg">Baby practice simulator</string>
+    <string name="msg_success">We have one happy baby</string>
+    <string name="msg_failed">This little baby is not happy</string>
+
+
+    <!-- Errors -->
+    <string name="error_NoValidQuestionType" translatable="false">Question type not valid for question: </string>
+    <string name="error_pleaseFillInAllQuestion">Please fill in all questions.</string>
 
 </resources>
